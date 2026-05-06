@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project output files
+output_v1.json
+output_v2.json
+output_v3.json
